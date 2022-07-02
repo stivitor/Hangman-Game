@@ -1,0 +1,32 @@
+﻿    _________________________________________________
+      Bienvenido al juego del ahorcado. Stiven debe 
+     adivinar las letras faltantes de cierta palabra
+            o morirá en la horca, AYUDALE!! 
+    _________________________________________________
+
+                    INSTRUCCIONES
+
+1 - Se le mostrará una palabra incompleta,
+debe escribir las letras faltantes una a una 
+hasta lograr adivinar la palabra, debe tener en cuenta
+que la palabra solo se mostrara con la letra que ingresaste
+una sola vez y en el siguiente intento verá de nuevo un signo
+de interrogación en su lugar. Debe ingresar letras hasta tener una
+idea de cuál es la palabra y para ello dispone de 5 intentos.
+
+2 - una vez escriba la primera letra, si es correcta,
+verá de nuevo la palabra, pero esta vez contiene la letra que ingreso.
+
+3 - Después de ingresada la primera letra dispone de 2 opciones,
+se le preguntará si sabe la palabra, si cree saberla presione Y, y escríbala,
+de lo contrario, presione N.
+
+NOTA = tenga en cuenta que de aceptar tendrás solamente un intento.
+
+4 - De no aceptar y presionar N, 
+podrá seguir ingresando letras haciendo uso de 4 intentos sobrantes y
+teniendo en cuenta el numeral 1 de estas instrucciones. 
+    __________________________________________________
+                PRESIONE ENTER PARA JUGAR
+                       MUCHA SUERTE
+    __________________________________________________
